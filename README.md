@@ -1,2 +1,0 @@
-# DAA-LAB
-DAA Assignments
